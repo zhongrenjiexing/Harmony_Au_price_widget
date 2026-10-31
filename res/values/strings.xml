@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">金价</string>
+    <string name="widget_name">黄金价格</string>
+    <string name="widget_desc">显示上金所黄金T+D和伦敦金的最新价格</string>
+</resources>
